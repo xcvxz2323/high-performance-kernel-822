@@ -1,0 +1,1 @@
+const util_0tk3 = (d: any) => d;
